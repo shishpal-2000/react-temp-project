@@ -19,6 +19,9 @@ export default function Home() {
               src/app/page.js
 
               data is enter the name of the
+
+              "this is frontend page"
+              
             </code>
             .
           </li>
