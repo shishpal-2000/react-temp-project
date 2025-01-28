@@ -22,7 +22,7 @@ export default function Home() {
               "git features branch"
             </code>
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Save and see your changes instantly rebase master.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
