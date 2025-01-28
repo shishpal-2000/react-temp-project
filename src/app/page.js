@@ -20,8 +20,7 @@ export default function Home() {
               src/app/page.js
               data is enter the name of the
 
-              "this is frontend page fetch data"
-              
+              "git features branch"
             </code>
           </li>
           <li>Save and see your changes instantly.</li>
