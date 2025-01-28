@@ -20,7 +20,7 @@ export default function Home() {
 
               data is enter the name of the
 
-              "this is frontend page"
+              "this is frontend page fetch data"
               
             </code>
             .
