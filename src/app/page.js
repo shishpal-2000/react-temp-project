@@ -20,7 +20,7 @@ export default function Home() {
 
               data is enter the name of the
 
-              "this is frontend page fetch data"
+              "this is frontend page fetch data remote add "
               
             </code>
             .
