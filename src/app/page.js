@@ -26,6 +26,8 @@ export default function Home() {
           <li>Save and see your changes frontend branch git remote plus add the origin.</li>
           <li>Save and see your changes frontend branch git remote plus add the origin.</li>
           <li>Save and see your changes frontend branch git remote plus add the origin.</li>
+          <li>Save and see your changes frontend branch git remote plus add the origin.</li>
+          <li>Save and see your changes frontend branch git remote plus add the origin frontend.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
